@@ -19,5 +19,6 @@ int main(){
        cout << "Hello World! This is LEMON library here." << endl;
        cout << "We have a directed graph with " << countNodes(g) << " nodes "
             << "and " << countArcs(g) << " arc." << endl;
-    std::cout<<"Lemon works"<<std::endl;
+         std::cout<<"Lemon works"<<std::endl;
+         cout<< "Alles gut";
 }
